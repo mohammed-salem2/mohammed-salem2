@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohammed Salem</h1>
 <h3 align="center">Back-End devolper by Laravel-PHP</h3>
 
+- 🔭 I’m currently working on **Back-End PHP Laravel**
+
+- 💬 Ask me about **PHP Laravel and MySql**
+
 - 📫 How to reach me **mohammedmazensalem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
